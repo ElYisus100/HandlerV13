@@ -1,6 +1,6 @@
-const prefix = "/";
 // copia la Estructura de Eventos cada vez que quieras poner un nuevo evento en tu codigo
 
+const prefix = "/";
 module.exports = async (client, message) => {
   
 if(message.author.bot)return;
