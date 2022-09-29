@@ -5,7 +5,7 @@ alias: [], // Podemos ponerle otros nombres al comando
 
 run: async (client, message, args) => {
 
-
+// aqui se hace el codigo del comando
 
 }
 
