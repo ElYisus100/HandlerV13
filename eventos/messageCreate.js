@@ -1,5 +1,5 @@
 const prefix = "/";
-// copia la Estructura de Eventos cada vez quee quieras poner un nuevo evento en tu codigo
+// copia la Estructura de Eventos cada vez que quieras poner un nuevo evento en tu codigo
 
 module.exports = async (client, message) => {
   
