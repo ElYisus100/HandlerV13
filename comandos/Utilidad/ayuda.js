@@ -7,7 +7,6 @@ alias: ["help", "comandos", "commands"], // se le puede añadir más nombres
 
 run: async (client, message, args) => {
 
-    
     const prefix = "jc!"
     const texto = "Si falla algún comando no dudes en reportarlo con /reportar-bug"
     const emoji_ban = client.emojis.cache.get("732771558371885138")
