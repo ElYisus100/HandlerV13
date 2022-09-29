@@ -1,7 +1,7 @@
 const Discord = require("discord.js")
 module.exports = {
-name: "",
-alias: [],
+name: "", // El nombre del comando (importante agregarlo)
+alias: [], // Podemos ponerle otros nombres al comando
 
 run: async (client, message, args) => {
 
